@@ -12,8 +12,6 @@
   <a href="https://www.linkedin.com/in/mahib-nasif">LinkedIn</a>
   ·
   <a href="mailto:mahibtrs@gmail.com">Email</a>
-  ·
-  <a href="https://crown-and-capture.onrender.com">Live project</a>
 </p>
 
 ---
