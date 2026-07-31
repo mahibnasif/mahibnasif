@@ -110,7 +110,7 @@ repeatable deployments.
 - **IT Intern, Beximco Pharmaceuticals Ltd.** — Supported manufacturing
   information systems, user access, security audits, hardware, and network
   troubleshooting.
-- **Recognition** — Maverick Academic Scholarship, Bangladesh National Physics
+- **Recognition** — Maverick Academic Scholarship, National Physics
   Olympiad winner, and Duke of Edinburgh's International Award recipient.
 
 ---
