@@ -103,20 +103,12 @@ repeatable deployments.
 
 ## Background
 
-- **UI/UX Design Intern, Expedition Org.** — Partnered with organizers and
-  participant groups to turn complex conference requirements into a coherent
-  product experience across five user roles. I designed more than 25 responsive
-  screens, mapped registration and dashboard workflows from end to end, and
-  created a 30+ component design system that improved consistency while reducing
-  repeated design work by approximately 35%—experience that continues to shape
-  how I build clear, maintainable software.
-- **IT Intern, Beximco Pharmaceuticals Ltd.** — Worked within a large
-  pharmaceutical technology environment where system access, security, and
-  availability directly supported day-to-day operations. Alongside maintaining
-  five enterprise platforms, I investigated recurring hardware, software, and
-  network issues and automated the monthly review of approximately 250 inactive
-  accounts, saving 12 hours of manual audit work while strengthening my approach
-  to reliability, root-cause analysis, and operational ownership.
+- **UI/UX Design Intern, Expedition Org.** — Designed 25+ responsive screens and
+  a 30+ component system across five user roles, reducing repeated design work
+  by approximately 35%.
+- **IT Intern, Beximco Pharmaceuticals Ltd.** — Maintained five enterprise
+  platforms and automated audits of approximately 250 inactive accounts, saving
+  12 hours of manual work each month while strengthening access security.
 - **Recognition** — Maverick Academic Scholarship, National Physics
   Olympiad winner, and Duke of Edinburgh's International Award recipient.
 
