@@ -13,7 +13,7 @@
   ·
   <a href="mailto:mahibtrs@gmail.com">Email</a>
   ·
-  <a href="mahibnasif.me">Portfolio</a>
+  <a href="https://mahibnasif.me">Portfolio</a>
 </p>
 
 ---
