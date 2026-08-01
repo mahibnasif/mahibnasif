@@ -83,9 +83,8 @@ repeatable deployments.
 
 ## More of my work
 
-- **FallLine** — An ESP32 and MPU6050 wearable that detects falls and sends
+- **[FallLine](https://github.com/Fall-Guys/FallLine)** — An ESP32 and MPU6050 wearable that detects falls and sends
   real-time events through a cloud pipeline to a React caregiver dashboard.
-  [View project on GitHub](https://github.com/Fall-Guys/FallLine)
 - **[Treasure Forest](https://github.com/mahibnasif/treasure-forest-game)** —
   A multilevel Java 2D adventure game with custom rendering, reusable
   object-oriented systems, NPC pathfinding, combat, and collectibles.
