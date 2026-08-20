@@ -32,8 +32,8 @@ repeatable deployments.
 - Built a multi-tenant monitoring and incident-response platform with automated
   health checks, live updates, reliability analytics, and an AWS deployment
   target.
-- Shipped a real-time multiplayer checkers club with authoritative server-side
-  rules, matchmaking, private rooms, spectators, chat, and five CPU levels.
+- Built an autonomous GitHub research agent that plans its own tool use, adapts
+  to evidence gaps, and delivers citation-verified reports with bounded execution.
 - Helped engineer an ESP32 fall-detection wearable and its cloud-connected
   caregiver dashboard.
 - Previously worked in UI/UX design and pharmaceutical IT environments.
@@ -62,22 +62,21 @@ repeatable deployments.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mahibnasif/crown-and-capture">Crown &amp; Capture</a></h3>
+      <h3><a href="https://github.com/mahibnasif/RepoScout">RepoScout</a></h3>
       <p>
-        A full-stack checkers club for live multiplayer matches and solo play.
+        An autonomous GitHub research agent that turns natural-language goals
+        into evidence-backed, auditable reports.
       </p>
       <p>
-        Server-authoritative gameplay, shared move validation, public
-        matchmaking, private tables, spectators, persistent chat, ratings, and
-        five CPU difficulties powered by alpha-beta search.
+        Adaptive tool planning, run-isolated RAG, verified citations,
+        prompt-injection controls, budget-enforced termination, and resilient
+        failure recovery—validated across seven evaluation scenarios.
       </p>
       <p>
-        <strong>React · TypeScript · Node.js · Express · Socket.IO · SQLite · Docker</strong>
+        <strong>Python · FastAPI · LangChain · LangGraph · LlamaIndex · Chroma · GitHub API · Pytest</strong>
       </p>
       <p>
-        <a href="https://crown-and-capture.onrender.com">Live demo</a>
-        ·
-        <a href="https://github.com/mahibnasif/crown-and-capture#readme">Explore the project →</a>
+        <a href="https://github.com/mahibnasif/RepoScout#readme">Explore the project →</a>
       </p>
     </td>
   </tr>
@@ -87,6 +86,10 @@ repeatable deployments.
 
 - **[FallLine](https://github.com/Fall-Guys/FallLine)** — An ESP32 and MPU6050 wearable that detects falls and sends
   real-time events through a cloud pipeline to a React caregiver dashboard.
+- **[Crown & Capture](https://github.com/mahibnasif/crown-and-capture)** — A
+  full-stack checkers platform with server-authoritative multiplayer,
+  matchmaking, private rooms, spectators, persistent chat, ratings, and five
+  CPU difficulty levels. [Live demo](https://crown-and-capture.onrender.com)
 - **[Treasure Forest](https://github.com/mahibnasif/treasure-forest-game)** —
   A multilevel Java 2D adventure game with custom rendering, reusable
   object-oriented systems, NPC pathfinding, combat, and collectibles.
@@ -100,6 +103,7 @@ repeatable deployments.
 |---|---|
 | Languages | Java, TypeScript, JavaScript, Python, SQL, C, C++ |
 | Application development | Spring Boot, React, Node.js, Express, Socket.IO, REST APIs, WebSockets, Server-Sent Events |
+| AI and retrieval | LangChain, LangGraph, LlamaIndex, Chroma, RAG, agent evaluation |
 | Data and infrastructure | PostgreSQL, SQLite, AWS, Docker, Terraform, GitHub Actions |
 | Testing and quality | JUnit, Testcontainers, Vitest, Playwright, CI/CD |
 
