@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahib-nasif">LinkedIn</a>
   ·
-  <a href="mailto:mahibtrs@gmail.com">Email</a>
+  <a href="mailto:mahibnasif11@gmail.com">Email</a>
   ·
   <a href="https://mahibnasif.me">Portfolio</a>
 </p>
